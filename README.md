@@ -20,4 +20,4 @@ NONO_FactorRank_MultiScore_Main.py: the main class to run all the functions and 
 
 ### Due to company's policy, I cannot post classes like MarginRatio.py, AssetRealLot.py, MinutePrice.py, PortfolioReturn.py, which relate how the company would execute the portofolio in reality. I also cannot disclose the factor and asset data because they are company's properties, which are not meant to be public. I can only post some sample outputs to show what the code can do.
 
-## Therefoe, the whole codes are only for domenstration and reference purpose. In reality, many active analysis and modifications need to be done to make the model profitable.
+## Therefore, the whole codes are only for domenstration and reference purpose. In reality, many active analysis and modifications need to be done to make the model profitable.
